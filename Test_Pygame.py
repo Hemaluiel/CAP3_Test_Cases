@@ -3,7 +3,7 @@ import sys
 import random
 import unittest 
 
-# game code
+# game code - logic
 class Apple(pygame.sprite.Sprite):
     def __init__(self):
         super().__init__()
